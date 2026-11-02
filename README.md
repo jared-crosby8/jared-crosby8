@@ -1,19 +1,26 @@
-# I am Jared Crosby
+## Jared Crosby
 
-**Senior Software Engineer**
+**Recommendation Systems**
 
-## Focus Areas
-Full-Stack Development, Cloud Architecture, Recommender Systems, Collaborative Filtering, Personalization
+### By The Numbers
 
-## ML Experience
-- Built large-scale recommender systems serving millions of personalized recommendations daily
-- Implemented collaborative filtering and matrix factorization algorithms for content recommendation
-- Designed A/B testing frameworks for evaluating recommendation algorithm improvements
-- Optimized recommendation inference pipelines achieving sub-50ms response times with 85% NDCG
+| Metric | Value |
+|--------|-------|
+| Active Models | 15 |
+| Daily Predictions | 500M+ |
+| Click-Through Rate | 3.2% |
+| Conversion Lift | 28% |
+| Inference Latency (p95) | 45ms |
+| Cold-Start Coverage | 94% |
 
-## Connect
-- GitHub: [@jared-crosby8](https://github.com/jared-crosby8)  
-- LinkedIn: [Profile](https://linkedin.com/in/jared-crosby8)
+### Technical Approach
+- Collaborative filtering (matrix factorization)
+- Content-based filtering with embeddings  
+- Hybrid ranking with learning-to-rank
+- Real-time feature computation
+- Continuous A/B testing for algorithm validation
 
----
-*Building solutions that matter.*
+### Current Challenge
+Solving the cold-start problem for new users without sacrificing personalization quality. Content-based bootstrapping helps, but context is key.
+
+**Impact:** Recommendations drive 35% of platform revenue.
