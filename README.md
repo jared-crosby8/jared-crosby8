@@ -1,26 +1,22 @@
-## Jared Crosby
+I am Jared Crosby
 
-**Recommendation Systems**
+**Recommendation Systems Engineer**
 
-### By The Numbers
+Building large-scale personalization and recommendation systems for e-commerce and content platforms.
 
-| Metric | Value |
-|--------|-------|
-| Active Models | 15 |
-| Daily Predictions | 500M+ |
-| Click-Through Rate | 3.2% |
-| Conversion Lift | 28% |
-| Inference Latency (p95) | 45ms |
-| Cold-Start Coverage | 94% |
+**Production Metrics:**
+- 15 active recommendation models
+- 500M+ daily predictions
+- 3.2% click-through rate
+- 28% conversion lift
+- 45ms inference latency (p95)
+- 94% new user coverage
 
-### Technical Approach
-- Collaborative filtering (matrix factorization)
-- Content-based filtering with embeddings  
+**Technical Approach:**
+- Collaborative filtering with matrix factorization
+- Content-based filtering using embeddings
 - Hybrid ranking with learning-to-rank
 - Real-time feature computation
-- Continuous A/B testing for algorithm validation
+- Continuous A/B testing validation
 
-### Current Challenge
-Solving the cold-start problem for new users without sacrificing personalization quality. Content-based bootstrapping helps, but context is key.
-
-**Impact:** Recommendations drive 35% of platform revenue.
+Current challenge: Improving cold-start recommendations while maintaining personalization quality. Recommendations drive 35% of platform revenue.
