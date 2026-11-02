@@ -1,7 +1,5 @@
 # I am Jared Crosby
 
-**Senior Software Engineer**
-
 ![GitHub followers](https://img.shields.io/github/followers/jared-crosby8?style=social)
 ![Status](https://img.shields.io/badge/Looking_for-Opportunities-brightgreen)
 
@@ -22,4 +20,4 @@ Web & Cloud Technologies
 - **LinkedIn**: [View Profile](https://linkedin.com/in/jared-crosby8)
 
 ---
-*Software Engineer | Problem Solver | Tech Enthusiast*
+*Engineer | Problem Solver | Tech Enthusiast*
