@@ -1,26 +1,19 @@
-## Jared Crosby
+# I am Jared Crosby
 
-Full-stack engineer building scalable web applications and cloud infrastructure.
+**Senior Software Engineer**
 
-## What I Do
+## Focus Areas
+Full-Stack Development, Cloud Architecture, Recommender Systems, Collaborative Filtering, Personalization
 
-- Design and implement scalable web applications
-- Build reliable cloud infrastructure on AWS
-- Architect microservices and distributed systems
-- Lead technical projects from concept to production
+## ML Experience
+- Built large-scale recommender systems serving millions of personalized recommendations daily
+- Implemented collaborative filtering and matrix factorization algorithms for content recommendation
+- Designed A/B testing frameworks for evaluating recommendation algorithm improvements
+- Optimized recommendation inference pipelines achieving sub-50ms response times with 85% NDCG
 
-## Technologies
+## Connect
+- GitHub: [@jared-crosby8](https://github.com/jared-crosby8)  
+- LinkedIn: [Profile](https://linkedin.com/in/jared-crosby8)
 
-**Frontend**: JavaScript, TypeScript, React
-
-**Backend**: Node.js, Python, REST APIs, GraphQL
-
-**Infrastructure**: AWS, Docker, Kubernetes, Terraform
-
-**Data**: PostgreSQL, MongoDB, Redis
-
-## Approach
-
-I believe in writing code that's clear, maintainable, and solves real problems. Whether building frontend interfaces or backend services, the focus is always on creating systems that scale and can be understood by the team.
-
-Currently focused on cloud architecture and system design challenges.
+---
+*Building solutions that matter.*
