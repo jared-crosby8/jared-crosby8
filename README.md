@@ -1,4 +1,4 @@
-# Jared Crosby
+## Jared Crosby
 
 Full-stack engineer building scalable web applications and cloud infrastructure.
 
