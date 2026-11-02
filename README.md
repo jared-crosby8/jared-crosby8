@@ -1,7 +1,26 @@
-## What can I help you build?
+# Jared Crosby
 
-Web applications that scale? Cloud infrastructure? Full-stack systems that work?
+Full-stack engineer building scalable web applications and cloud infrastructure.
 
-I spend my time solving architecture problems and shipping products.
+## What I Do
 
-**Skills**: JavaScript, React, Node.js, AWS, PostgreSQL, Docker
+- Design and implement scalable web applications
+- Build reliable cloud infrastructure on AWS
+- Architect microservices and distributed systems
+- Lead technical projects from concept to production
+
+## Technologies
+
+**Frontend**: JavaScript, TypeScript, React
+
+**Backend**: Node.js, Python, REST APIs, GraphQL
+
+**Infrastructure**: AWS, Docker, Kubernetes, Terraform
+
+**Data**: PostgreSQL, MongoDB, Redis
+
+## Approach
+
+I believe in writing code that's clear, maintainable, and solves real problems. Whether building frontend interfaces or backend services, the focus is always on creating systems that scale and can be understood by the team.
+
+Currently focused on cloud architecture and system design challenges.
