@@ -1,5 +1,7 @@
-# Jared Crosby
+## What can I help you build?
 
-Full-stack software engineer focused on scalable web applications and cloud architecture. Experience building products at scale for diverse industries.
+Web applications that scale? Cloud infrastructure? Full-stack systems that work?
 
-**Technical Focus**: JavaScript, TypeScript, React, Node.js, PostgreSQL, AWS, Microservices, System Design
+I spend my time solving architecture problems and shipping products.
+
+**Skills**: JavaScript, React, Node.js, AWS, PostgreSQL, Docker
